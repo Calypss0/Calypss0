@@ -1,4 +1,4 @@
-- Hi everybody, I’m @Calypss0.
+- Hi everybody.
 - I'm 95% new to coding. I had to google what a repo is. I also just learnt what is a fork. I do know HTML/CSS
 - Wish me luck
 
